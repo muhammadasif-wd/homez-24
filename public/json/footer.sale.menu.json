@@ -1,0 +1,109 @@
+[
+  {
+    "first": {
+      "name": "Dubai Apartments",
+      "DubaiApartments": [
+        "Dubai Apartments",
+        "Dubai Marina",
+        "Jumeirah Lake Towers (JLT)",
+        "Downtown Dubai",
+        "Business Bay",
+        "Palm Jumeirah",
+        "Jumeirah Village Circle (JVC)",
+        "Dubai Silicon Oasis",
+        "Dubai Sports City",
+        "Jumeirah Beach Residence (JBR)",
+        "International City"
+      ]
+    }
+  },
+  {
+    "second": {
+      "name": "Abu Dhabi Apartments",
+      "AbuDhabiApartments": [
+        "Al Reem Island",
+        "Al Reef",
+        "Al Ghadeer",
+        "Al Raha Beach",
+        "Saadiyat Island",
+        "Yas Island"
+      ]
+    }
+  },
+  {
+    "third": {
+      "name": "Apartments in other Emirates",
+      "ApartmentsinotherEmirates": [
+        "Sharjah",
+        "Ajman",
+        "Ras Al Khaimah",
+        "Al Sawan",
+        "Al Nahda (Sharjah)"
+      ]
+    }
+  },
+  {
+    "forth": {
+      "name": "Dubai Villas",
+      "DubaiVillas": [
+        "Arabian Ranches",
+        "Dubailand",
+        "Dubai Hills Estate",
+        "Palm Jumeirah",
+        "The Springs",
+        "Arabian Ranches 2",
+        "DAMAC Hills",
+        "Jumeirah Park",
+        "Mudon",
+        "Al Furjan",
+        "The Meadows"
+      ]
+    }
+  },
+  {
+    "fifth": {
+      "name": "Abu Dhabi Villas",
+
+      "AbuDhabiVillas": [
+        "Al Reef",
+        "Yas Island",
+        "Saadiyat Island",
+        "Al Raha Gardens",
+        "Mohammed Bin Zayed City",
+        "Al Raha Golf Gardens",
+        "Khalifa City A",
+        "Hydra Village",
+        "Shakhbout City (Khalifa City B)",
+        "Al Mushrif"
+      ]
+    }
+  },
+  {
+    "six": {
+      "name": "Villas in other Emirates",
+      "VillasinotherEmirates": [
+        "Sharjah",
+        "Ajman",
+        "Ras Al Khaimah",
+        "Ajman Uptown",
+        "Sharjah Waterfront City"
+      ]
+    }
+  },
+  {
+    "seven": {
+      "name": "Popular Property for Sale searches in the UAE",
+      "PopularPropertyforSalesearchesintheUAE": [
+        "Dubai properties for sale",
+        "Dubai shops for sale",
+        "Dubai offices for sale",
+        "Abu Dhabi properties for sale",
+        "Abu Dhabi shops for sale",
+        "Abu Dhabi offices for sale",
+        "Sharjah properties for sale",
+        "Ajman properties for sale",
+        "Ras Al Khaimah properties for sale"
+      ]
+    }
+  }
+]

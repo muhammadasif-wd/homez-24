@@ -1,0 +1,117 @@
+[
+  {
+    "first": {
+      "name": "Dubai Apartments",
+      "DubaiApartments": [
+        "Dubai Marina",
+        "Jumeirah Village Circle",
+        "Jumeirah Lake Towers",
+        "Downtown Dubai",
+        "Business Bay",
+        "Palm Jumeirah",
+        "Dubai Sports City",
+        "Jumeirah Beach Residence",
+        "The Greens",
+        "Dubai Silicon Oasis",
+        "Motor City",
+        "Green Community",
+        "Dubai Production City - IMPZ"
+      ]
+    }
+  },
+  {
+    "second": {
+      "name": "Abu Dhabi Apartments",
+      "AbuDhabiApartments": [
+        "Al Reem Island",
+        "Al Raha Beach",
+        "Khalifa City A",
+        "Al Khalidiyah",
+        "Corniche Area",
+        "Al Reef",
+        "Mohammed Bin Zayed City",
+        "Al Ghadeer",
+        "Airport Street",
+        "Electra Street"
+      ]
+    }
+  },
+  {
+    "third": {
+      "name": "Apartments in other Emirates",
+      "ApartmentsinotherEmirates": [
+        "Sharjah",
+        "Ajman",
+        "Ras Al Khaimah",
+        "Al Sawan",
+        "Al Nahda (Sharjah)"
+      ]
+    }
+  },
+  {
+    "forth": {
+      "name": "Dubai Villas",
+      "DubaiVillas": [
+        "Jumeirah",
+        "Arabian Ranches",
+        "Umm Suqeim",
+        "The Springs",
+        "Palm Jumeirah",
+        "Jumeirah Village Circle",
+        "Al Barsha",
+        "Jumeirah Park",
+        "Mirdif",
+        "The Meadows",
+        "Jumeirah Golf Estate",
+        "Jumeirah Islands",
+        "The Lakes"
+      ]
+    }
+  },
+  {
+    "fifth": {
+      "name": "Abu Dhabi Villas",
+
+      "AbuDhabiVillas": [
+        "Khalifa City A",
+        "Al Reef",
+        "MBZ City",
+        "Saadiyat Island",
+        "Al Raha Gardens",
+        "Yas Island",
+        "Al Raha Golf Gardens",
+        "Al Mushrif",
+        "Al Bateen",
+        "Al Karamah"
+      ]
+    }
+  },
+  {
+    "six": {
+      "name": "Villas in other Emirates",
+      "VillasinotherEmirates": [
+        "Sharjah",
+        "Ajman",
+        "Ras Al Khaimah",
+        "Barashi",
+        "Al Mowaihat"
+      ]
+    }
+  },
+  {
+    "seven": {
+      "name": "Popular Property for Sale searches in the UAE",
+      "PopularPropertyforSalesearchesintheUAE": [
+        "Dubai properties for rent",
+        "Dubai shops for rent",
+        "Dubai offices for rent",
+        "Abu Dhabi properties for rent",
+        "Abu Dhabi shops for rent",
+        "Abu Dhabi offices for rent",
+        "Sharjah properties for rent",
+        "Ajman properties for rent",
+        "Ras Al Khaimah properties for rent"
+      ]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 122 82" style="enable-background:new 0 0 122 82;" xml:space="preserve">
+<g>
+	<rect width="122" height="82"/>
+</g>
+<g>
+	<rect x="1" y="1" fill="#FFF" width="120" height="80"/>
+</g>
+<path fill="#0D4220" d="M26,1v80h95V1H26z M84.8,23.1l3.9,4.3l5.3-2.3l-2.9,5l3.9,4.3l-5.7-1.2l-2.9,5l-0.6-5.8L80,31.2l5.3-2.3
+	L84.8,23.1z M76,65.1c-13.3,0-24-10.7-24-24c0-10.7,7-19.8,16.7-22.9c-0.4,0.3-0.8,0.6-1.2,1c-9.1,8.1-9.9,22-1.8,31.1
+	s22,9.9,31.1,1.8c0.4-0.3,0.7-0.7,1.1-1C94.1,59.3,85.7,65.1,76,65.1z"/>
+</svg>

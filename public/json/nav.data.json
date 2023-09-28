@@ -1,0 +1,11 @@
+[
+  { "name": "Buy","path":"/" },
+  { "name": "Rent","path":"/"  },
+  { "name": "Commercial","path":"/"  },
+  {"name":"Agent-Dashboard","path":"/agent-dashboard"},
+  {"name":"Admin-Dashboard","path":"/admin-dashboard"},
+  { "name": "New Projects","path":"/"  },
+  { "name": "Find Agents","path":"/"  },
+  { "name": "Property Prices","path":"/"  },
+  { "name": "Site Setting", "icon": "material-symbols:settings","path":"/"  }
+]
